@@ -42,7 +42,7 @@ It ia an online reporting android application. It contains basically 3 types of 
 
 ## Screenshots
 
-<table border='1'>
+<table border='2'>
   <tr>
     <th><img src=".attachments/IR1.png" alt="Screenshot" width="250" height="500"></th>
     <th><img src=".attachments/IR2.png" alt="Screenshot" width="250" height="500"></th>
